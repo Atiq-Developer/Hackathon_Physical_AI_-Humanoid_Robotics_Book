@@ -1,0 +1,27 @@
+{
+  "id": "part-4-perception-and-control/chapter-8-control-pipelines",
+  "title": "Chapter 8: Control Pipelines",
+  "description": "Effective robotic control is the bridge between perceiving the world and acting upon it. This chapter delves into the fundamental concepts of robotic control pipelines, covering how robots execute motions, maintain stability, and interact with their environment. We will also explore advanced tools like MoveIt 2 for complex motion planning.",
+  "source": "@site/docs/part-4-perception-and-control/chapter-8-control-pipelines.md",
+  "sourceDirName": "part-4-perception-and-control",
+  "slug": "/part-4-perception-and-control/chapter-8-control-pipelines",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-4-perception-and-control/chapter-8-control-pipelines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-4-perception-and-control/chapter-8-control-pipelines.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7: Perception with NVIDIA Isaac",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-4-perception-and-control/chapter-7-nvidia-isaac-for-perception"
+  },
+  "next": {
+    "title": "Chapter 9: Connecting LLMs to ROS 2",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-5-vision-language-action/chapter-9-connecting-llms-to-ros"
+  }
+}

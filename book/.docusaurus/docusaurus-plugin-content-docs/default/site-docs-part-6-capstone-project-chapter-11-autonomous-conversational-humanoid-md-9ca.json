@@ -1,0 +1,27 @@
+{
+  "id": "part-6-capstone-project/chapter-11-autonomous-conversational-humanoid",
+  "title": "Chapter 11: The Capstone Project",
+  "description": "This chapter is the culmination of your journey through Physical AI and humanoid robotics. You will integrate the knowledge and skills acquired throughout the book to design and implement an autonomous conversational humanoid robot in a simulated environment. The goal is to build a system that can understand natural language commands, perceive its surroundings, and perform complex actions.",
+  "source": "@site/docs/part-6-capstone-project/chapter-11-autonomous-conversational-humanoid.md",
+  "sourceDirName": "part-6-capstone-project",
+  "slug": "/part-6-capstone-project/chapter-11-autonomous-conversational-humanoid",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-6-capstone-project/chapter-11-autonomous-conversational-humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-6-capstone-project/chapter-11-autonomous-conversational-humanoid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 10: Building a Vision-Language-Action System",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-5-vision-language-action/chapter-10-building-vla-systems"
+  },
+  "next": {
+    "title": "Chapter 12: Future Directions",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-6-capstone-project/chapter-12-future-directions"
+  }
+}

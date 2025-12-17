@@ -1,0 +1,27 @@
+{
+  "id": "part-1-foundations/chapter-1-intro-to-physical-ai",
+  "title": "Chapter 1: Introduction to Physical AI",
+  "description": "Welcome to the exciting world of Physical AI! This chapter will introduce you to the fundamental concepts that bridge the gap between the digital realm of artificial intelligence and the physical world of robotics.",
+  "source": "@site/docs/part-1-foundations/chapter-1-intro-to-physical-ai.md",
+  "sourceDirName": "part-1-foundations",
+  "slug": "/part-1-foundations/chapter-1-intro-to-physical-ai",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-1-foundations/chapter-1-intro-to-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-1-foundations/chapter-1-intro-to-physical-ai.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physical AI & Humanoid Robotics",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/intro"
+  },
+  "next": {
+    "title": "Chapter 2: Embodied Intelligence",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-1-foundations/chapter-2-embodied-intelligence"
+  }
+}

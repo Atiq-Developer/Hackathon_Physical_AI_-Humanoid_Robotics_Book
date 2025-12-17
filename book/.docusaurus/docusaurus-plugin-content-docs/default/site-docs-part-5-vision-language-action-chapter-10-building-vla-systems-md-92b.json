@@ -1,0 +1,27 @@
+{
+  "id": "part-5-vision-language-action/chapter-10-building-vla-systems",
+  "title": "Chapter 10: Building a Vision-Language-Action System",
+  "description": "This chapter brings together the concepts of perception, language understanding, and robotic action to construct a complete Vision-Language-Action (VLA) system. A VLA system enables a robot to interpret natural language commands, understand its visual environment, and perform appropriate physical actions.",
+  "source": "@site/docs/part-5-vision-language-action/chapter-10-building-vla-systems.md",
+  "sourceDirName": "part-5-vision-language-action",
+  "slug": "/part-5-vision-language-action/chapter-10-building-vla-systems",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-5-vision-language-action/chapter-10-building-vla-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-5-vision-language-action/chapter-10-building-vla-systems.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 9: Connecting LLMs to ROS 2",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-5-vision-language-action/chapter-9-connecting-llms-to-ros"
+  },
+  "next": {
+    "title": "Chapter 11: The Capstone Project",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-6-capstone-project/chapter-11-autonomous-conversational-humanoid"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "part-3-simulation/chapter-6-gazebo-and-unity-for-robotics",
+  "title": "Chapter 6: Simulating Robots with Gazebo and Unity",
+  "description": "This chapter provides practical guidance on how to simulate robots using two popular platforms: Gazebo and Unity. We will cover the creation of robot models, their integration into these simulators, and basic interaction techniques.",
+  "source": "@site/docs/part-3-simulation/chapter-6-gazebo-and-unity-for-robotics.md",
+  "sourceDirName": "part-3-simulation",
+  "slug": "/part-3-simulation/chapter-6-gazebo-and-unity-for-robotics",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-3-simulation/chapter-6-gazebo-and-unity-for-robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-3-simulation/chapter-6-gazebo-and-unity-for-robotics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Simulation-First Development",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-3-simulation/chapter-5-simulation-first-development"
+  },
+  "next": {
+    "title": "Chapter 7: Perception with NVIDIA Isaac",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-4-perception-and-control/chapter-7-nvidia-isaac-for-perception"
+  }
+}

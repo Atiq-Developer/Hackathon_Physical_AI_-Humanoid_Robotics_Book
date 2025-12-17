@@ -1,0 +1,27 @@
+{
+  "id": "part-2-ros-2/chapter-4-ros-2-nodes-and-messages",
+  "title": "Chapter 4: Building a ROS 2 System",
+  "description": "Building a ROS 2 system involves creating workspaces, packages, and custom message types to facilitate communication between your robot's components. This chapter will walk you through the practical steps of setting up your development environment and creating your first ROS 2 nodes.",
+  "source": "@site/docs/part-2-ros-2/chapter-4-ros-2-nodes-and-messages.md",
+  "sourceDirName": "part-2-ros-2",
+  "slug": "/part-2-ros-2/chapter-4-ros-2-nodes-and-messages",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-2-ros-2/chapter-4-ros-2-nodes-and-messages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-2-ros-2/chapter-4-ros-2-nodes-and-messages.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: ROS 2 Architecture",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-2-ros-2/chapter-3-ros-2-architecture"
+  },
+  "next": {
+    "title": "Chapter 5: Simulation-First Development",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-3-simulation/chapter-5-simulation-first-development"
+  }
+}

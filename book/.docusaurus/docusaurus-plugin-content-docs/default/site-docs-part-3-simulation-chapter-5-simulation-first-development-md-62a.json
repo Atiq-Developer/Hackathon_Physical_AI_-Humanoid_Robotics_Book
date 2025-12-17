@@ -1,0 +1,27 @@
+{
+  "id": "part-3-simulation/chapter-5-simulation-first-development",
+  "title": "Chapter 5: Simulation-First Development",
+  "description": "In the rapidly evolving field of robotics, the ability to rapidly prototype, test, and iterate on complex systems is paramount. Simulation-first development has emerged as a critical methodology, allowing engineers and researchers to design and validate robotic behaviors in a virtual environment before deploying them to costly and potentially dangerous physical hardware.",
+  "source": "@site/docs/part-3-simulation/chapter-5-simulation-first-development.md",
+  "sourceDirName": "part-3-simulation",
+  "slug": "/part-3-simulation/chapter-5-simulation-first-development",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-3-simulation/chapter-5-simulation-first-development",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-3-simulation/chapter-5-simulation-first-development.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Building a ROS 2 System",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-2-ros-2/chapter-4-ros-2-nodes-and-messages"
+  },
+  "next": {
+    "title": "Chapter 6: Simulating Robots with Gazebo and Unity",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-3-simulation/chapter-6-gazebo-and-unity-for-robotics"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "part-2-ros-2/chapter-3-ros-2-architecture",
+  "title": "Chapter 3: ROS 2 Architecture",
+  "description": "This chapter dives into the heart of modern robotics development: the Robot Operating System 2 (ROS 2). We'll explore its fundamental architecture, key concepts, and how it enables complex robotic systems to communicate and coordinate.",
+  "source": "@site/docs/part-2-ros-2/chapter-3-ros-2-architecture.md",
+  "sourceDirName": "part-2-ros-2",
+  "slug": "/part-2-ros-2/chapter-3-ros-2-architecture",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-2-ros-2/chapter-3-ros-2-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-2-ros-2/chapter-3-ros-2-architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Embodied Intelligence",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-1-foundations/chapter-2-embodied-intelligence"
+  },
+  "next": {
+    "title": "Chapter 4: Building a ROS 2 System",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-2-ros-2/chapter-4-ros-2-nodes-and-messages"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "intro",
+  "title": "Physical AI & Humanoid Robotics",
+  "description": "Welcome to the Physical AI & Humanoid Robotics textbook.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 1: Introduction to Physical AI",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-1-foundations/chapter-1-intro-to-physical-ai"
+  }
+}

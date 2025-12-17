@@ -1,0 +1,27 @@
+{
+  "id": "part-4-perception-and-control/chapter-7-nvidia-isaac-for-perception",
+  "title": "Chapter 7: Perception with NVIDIA Isaac",
+  "description": "NVIDIA Isaac Sim, built on the Omniverse platform, is a powerful robotics simulation and synthetic data generation tool that accelerates the development of AI-powered robots. This chapter will focus on leveraging Isaac Sim for perception tasks, from simulating sensors to generating synthetic datasets for training deep learning models.",
+  "source": "@site/docs/part-4-perception-and-control/chapter-7-nvidia-isaac-for-perception.md",
+  "sourceDirName": "part-4-perception-and-control",
+  "slug": "/part-4-perception-and-control/chapter-7-nvidia-isaac-for-perception",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-4-perception-and-control/chapter-7-nvidia-isaac-for-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-4-perception-and-control/chapter-7-nvidia-isaac-for-perception.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Simulating Robots with Gazebo and Unity",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-3-simulation/chapter-6-gazebo-and-unity-for-robotics"
+  },
+  "next": {
+    "title": "Chapter 8: Control Pipelines",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-4-perception-and-control/chapter-8-control-pipelines"
+  }
+}

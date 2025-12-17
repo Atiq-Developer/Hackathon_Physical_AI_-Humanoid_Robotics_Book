@@ -1,0 +1,81 @@
+{
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/markdown-page-9fb": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs-2cf": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs-520": {
+    "__comp": "a7bd4aaa",
+    "__props": "0c9079a4"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs-caa": {
+    "__comp": "a94703ab"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/intro-85d": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-1-foundations/chapter-1-intro-to-physical-ai-330": {
+    "__comp": "17896441",
+    "content": "6b3d9ff1"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-1-foundations/chapter-2-embodied-intelligence-62a": {
+    "__comp": "17896441",
+    "content": "22891658"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-2-ros-2/chapter-3-ros-2-architecture-d3b": {
+    "__comp": "17896441",
+    "content": "51b5c4ac"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-2-ros-2/chapter-4-ros-2-nodes-and-messages-245": {
+    "__comp": "17896441",
+    "content": "875ebf32"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-3-simulation/chapter-5-simulation-first-development-c6d": {
+    "__comp": "17896441",
+    "content": "62a982c8"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-3-simulation/chapter-6-gazebo-and-unity-for-robotics-4be": {
+    "__comp": "17896441",
+    "content": "eef55277"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-4-perception-and-control/chapter-7-nvidia-isaac-for-perception-b48": {
+    "__comp": "17896441",
+    "content": "f32ad07a"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-4-perception-and-control/chapter-8-control-pipelines-68e": {
+    "__comp": "17896441",
+    "content": "01ff1527"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-5-vision-language-action/chapter-10-building-vla-systems-47d": {
+    "__comp": "17896441",
+    "content": "92bebc3d"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-5-vision-language-action/chapter-9-connecting-llms-to-ros-d2b": {
+    "__comp": "17896441",
+    "content": "bc547184"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-6-capstone-project/chapter-11-autonomous-conversational-humanoid-4b0": {
+    "__comp": "17896441",
+    "content": "9cae1750"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-6-capstone-project/chapter-12-future-directions-e6e": {
+    "__comp": "17896441",
+    "content": "03fcb857"
+  },
+  "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/-77c": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

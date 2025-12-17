@@ -1,0 +1,27 @@
+{
+  "id": "part-1-foundations/chapter-2-embodied-intelligence",
+  "title": "Chapter 2: Embodied Intelligence",
+  "description": "This chapter explores the concept of embodied intelligence, a cornerstone of modern robotics and Physical AI. We will delve into how a physical body shapes the nature of intelligence and how robots perceive and interact with their environment.",
+  "source": "@site/docs/part-1-foundations/chapter-2-embodied-intelligence.md",
+  "sourceDirName": "part-1-foundations",
+  "slug": "/part-1-foundations/chapter-2-embodied-intelligence",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-1-foundations/chapter-2-embodied-intelligence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-1-foundations/chapter-2-embodied-intelligence.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to Physical AI",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-1-foundations/chapter-1-intro-to-physical-ai"
+  },
+  "next": {
+    "title": "Chapter 3: ROS 2 Architecture",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-2-ros-2/chapter-3-ros-2-architecture"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "part-5-vision-language-action/chapter-9-connecting-llms-to-ros",
+  "title": "Chapter 9: Connecting LLMs to ROS 2",
+  "description": "Integrating Large Language Models (LLMs) with ROS 2 allows robots to understand natural language commands and generate complex action sequences. This chapter explores how to bridge the gap between an LLM's cognitive abilities and a robot's physical actions within the ROS 2 framework.",
+  "source": "@site/docs/part-5-vision-language-action/chapter-9-connecting-llms-to-ros.md",
+  "sourceDirName": "part-5-vision-language-action",
+  "slug": "/part-5-vision-language-action/chapter-9-connecting-llms-to-ros",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-5-vision-language-action/chapter-9-connecting-llms-to-ros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-5-vision-language-action/chapter-9-connecting-llms-to-ros.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 8: Control Pipelines",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-4-perception-and-control/chapter-8-control-pipelines"
+  },
+  "next": {
+    "title": "Chapter 10: Building a Vision-Language-Action System",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-5-vision-language-action/chapter-10-building-vla-systems"
+  }
+}

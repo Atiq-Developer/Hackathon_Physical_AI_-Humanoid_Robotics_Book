@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-1-foundations/chapter-1-intro-to-physical-ai",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-1-foundations/chapter-1-intro-to-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-1-foundations/chapter-2-embodied-intelligence",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-1-foundations/chapter-2-embodied-intelligence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-2-ros-2/chapter-3-ros-2-architecture",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-2-ros-2/chapter-3-ros-2-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-2-ros-2/chapter-4-ros-2-nodes-and-messages",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-2-ros-2/chapter-4-ros-2-nodes-and-messages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-3-simulation/chapter-5-simulation-first-development",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-3-simulation/chapter-5-simulation-first-development",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-3-simulation/chapter-6-gazebo-and-unity-for-robotics",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-3-simulation/chapter-6-gazebo-and-unity-for-robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-4-perception-and-control/chapter-7-nvidia-isaac-for-perception",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-4-perception-and-control/chapter-7-nvidia-isaac-for-perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-4-perception-and-control/chapter-8-control-pipelines",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-4-perception-and-control/chapter-8-control-pipelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-5-vision-language-action/chapter-10-building-vla-systems",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-5-vision-language-action/chapter-10-building-vla-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-5-vision-language-action/chapter-9-connecting-llms-to-ros",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-5-vision-language-action/chapter-9-connecting-llms-to-ros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-6-capstone-project/chapter-11-autonomous-conversational-humanoid",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-6-capstone-project/chapter-11-autonomous-conversational-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-6-capstone-project/chapter-12-future-directions",
+              "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-6-capstone-project/chapter-12-future-directions",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

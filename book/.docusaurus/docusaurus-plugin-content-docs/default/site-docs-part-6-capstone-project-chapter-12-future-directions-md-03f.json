@@ -1,0 +1,23 @@
+{
+  "id": "part-6-capstone-project/chapter-12-future-directions",
+  "title": "Chapter 12: Future Directions",
+  "description": "Congratulations on completing the capstone project and working through this book! The field of Physical AI and humanoid robotics is incredibly dynamic, with new breakthroughs emerging constantly. This final chapter will briefly touch upon some exciting future directions and provide guidance on how to stay engaged and continue learning.",
+  "source": "@site/docs/part-6-capstone-project/chapter-12-future-directions.md",
+  "sourceDirName": "part-6-capstone-project",
+  "slug": "/part-6-capstone-project/chapter-12-future-directions",
+  "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-6-capstone-project/chapter-12-future-directions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/humanoid-robotics-book/tree/main/docs/part-6-capstone-project/chapter-12-future-directions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 11: The Capstone Project",
+    "permalink": "/Hackathon_Physical_AI_-Humanoid_Robotics_Book/docs/part-6-capstone-project/chapter-11-autonomous-conversational-humanoid"
+  }
+}
