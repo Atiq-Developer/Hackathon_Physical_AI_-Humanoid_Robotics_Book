@@ -1,0 +1,17 @@
+# Docusaurus
+/build/
+/.docusaurus/
+/docs/node_modules/
+/src/css/custom.css
+
+# Node
+node_modules/
+yarn.lock
+package-lock.json
+
+# General
+.DS_Store
+*.log
+.env*
+.idea/
+.vscode/

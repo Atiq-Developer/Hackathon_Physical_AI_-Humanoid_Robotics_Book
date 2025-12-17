@@ -31,7 +31,10 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- [ ] **Technical Accuracy**: Does the plan rely on established documentation and research?
+- [ ] **Engineering Clarity**: Is the technical plan clear enough for the target audience?
+- [ ] **Reproducibility**: Is the proposed system conceptually reproducible?
+- [ ] **Embodiment-First Thinking**: Does the plan account for physical constraints?
 
 ## Project Structure
 
